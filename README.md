@@ -59,14 +59,6 @@ Catálogo inteligente de dados com IA
 
 ---
 
-## ⚡ Diferencial
-
-- Não só usa LLM → **projeta sistema**
-- Não só chama API → **orquestra agentes**
-- Não só responde prompt → **cria produto**
-
----
-
 ## 📫 Contato
 
 - Email: klaubeer@gmail.com

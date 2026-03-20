@@ -19,23 +19,40 @@ Minha pegada é **menos teoria, mais sistema rodando e gerando valor**.
 
 ---
 
-## 🧠 Stack principal
+## 🧠 Stack & Expertise
 
-**LLMs & AI**
-- OpenAI, Claude, Gemini
-- LangChain, LangGraph
-- RAG (vector search + reranking + pipelines)
+### 🤖 AI Systems
+- LLM Applications (OpenAI, Claude, Gemini)
+- AI Agents & Multi-Agent Systems
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+- LLM Evaluation (RAGAS)
 
-**Backend & Infra**
-- Python
-- FastAPI
+### 🔍 Retrieval & Search
+- Hybrid Search (BM25 + Vector Search)
+- Vector Databases
+- Semantic Search Pipelines
+
+### ⚙️ Backend & Infra
+- Python (FastAPI)
+- API Integration
 - Docker
-- n8n (MCP / automação)
+- CI/CD
 
-**Data & Search**
-- PostgreSQL
-- Vector DBs
-- Elasticsearch / BM25
+### 🗄️ Data & Storage
+- SQL & Databases
+- Supabase
+
+### 🔄 Automation & Workflows
+- n8n, Make, Zapier
+- Workflow orchestration with AI
+
+### 📊 LLMOps
+- Token Usage & Cost Monitoring
+- Observability for LLM systems
+
+### 🕷️ Data Collection
+- Web Scraping
 
 ---
 
@@ -63,7 +80,6 @@ Catálogo inteligente de dados com IA
 
 - Email: klaubeer@gmail.com
 - LinkedIn: https://linkedin.com/in/klaubeer
-
 ---
 
 ## 📊 Stats

@@ -15,8 +15,6 @@ Atuo na criação de:
 - Automação de workflows com IA
 - Copilots e interfaces inteligentes para dados
 
-Minha pegada é **menos teoria, mais sistema rodando e gerando valor**.
-
 ---
 
 ## 🧠 Stack & Expertise

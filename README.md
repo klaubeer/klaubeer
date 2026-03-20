@@ -64,7 +64,7 @@ RAG + ranking híbrido + avaliação de respostas
 NL → SQL + entendimento de schema  
 → Substitui dashboards com linguagem natural
 
-### 🤖 AI Marketing Agency - 
+### 🤖 AI Marketing Agency - Markito's
 Sistema multi-agente que gera campanhas completas  
 → Orquestração de agentes + workflows complexos
 

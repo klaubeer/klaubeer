@@ -23,7 +23,7 @@ Minha pegada é **menos teoria, mais sistema rodando e gerando valor**.
 
 **LLMs & AI**
 - OpenAI, Claude, Gemini
-- LangChain, LlamaIndex
+- LangChain, LangGraph
 - RAG (vector search + reranking + pipelines)
 
 **Backend & Infra**

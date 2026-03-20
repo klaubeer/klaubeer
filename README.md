@@ -56,19 +56,19 @@ Atuo na criação de:
 
 ## 🧩 Projetos em destaque
 
-### 🛍️ AI E-commerce Assistant
+### 🛍️ AI E-commerce Assistant - Oráculo do e-commerce
 RAG + ranking híbrido + avaliação de respostas  
 → Assistente inteligente para suporte e conversão
 
-### 🧠 AI Data Copilot
+### 🧠 AI Data Copilot - Isreal
 NL → SQL + entendimento de schema  
 → Substitui dashboards com linguagem natural
 
-### 🤖 AI Marketing Agency
+### 🤖 AI Marketing Agency - 
 Sistema multi-agente que gera campanhas completas  
 → Orquestração de agentes + workflows complexos
 
-### 🗂️ AI Metadata Catalog
+### 🗂️ AI Metadata Catalog - Data Navigator
 Catálogo inteligente de dados com IA  
 → Exploração de datasets sem depender do time técnico
 

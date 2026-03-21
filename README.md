@@ -40,31 +40,31 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ## 📦 Projetos
 
 ### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai)
-**Monitora, avalia e observa LLMs em produção — do trace à resposta**
+**Monitora, avalia e observa LLMs em produção — do trace à resposta.**
 SDK Python com decorator @observe(), avaliação automática com LLM-as-Judge (faithfulness, relevância, toxicidade, PII), guardrails síncronos e assíncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo com comparações A/B. Integração em menos de 3 linhas sem alterar o comportamento da aplicação. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
  
 ### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA)
-**Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente**
+**Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente.**
 Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
 
 ### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog)
-**Catálogo inteligente de dados — explore datasets sem depender do time técnico**
+**Catálogo inteligente de dados — explore datasets sem depender do time técnico.**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia.
  
 ### 📱 [O Postador](https://github.com/klaubeer/postador-ai-agent)
-**Produção automatizada de conteúdo para redes sociais**
+**Produção automatizada de conteúdo para redes sociais.**
 Plataforma com IA que gera, adapta e agenda conteúdo para redes sociais — reduzindo o tempo de produção com consistência de voz da marca.
  
 ### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency)
-**Sistema multi-agente que gera campanhas de marketing completas**
+**Sistema multi-agente que gera campanhas de marketing completas.**
 Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
   
 ### 💼 [Slack Sales Copilot](https://github.com/klaubeer/slack-sales-copilot)
-**IA para vendedores dentro do Slack — analisa oportunidades e sugere próximos passos**
+**IA para vendedores dentro do Slack — analisa oportunidades e sugere próximos passos.**
 Ferramenta LLM embarcada no Slack que ajuda vendedores a avaliar negócios e receber recomendações acionáveis sem sair do fluxo de trabalho.
  
 ### 🤝 [AI Agent Automation](https://github.com/klaubeer/ai-agent-automation)
-**Agente conversacional com acesso a base de conhecimento e execução de ações automatizadas**
+**Agente conversacional com acesso a base de conhecimento e execução de ações automatizadas.**
 Agente autônomo que integra com sistemas internos, consulta bases de conhecimento e executa ações — projetado para automação corporativa real.
 
 ### 🏛️ [Democrata](https://github.com/klaubeer/municipal-ai-assistant)

@@ -27,7 +27,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 `Python` `FastAPI` `Docker` `REST APIs` `CI/CD` `Django` 
  
 **Dados & Storage**
-`PostgreSQL` `Supabase` `SQL` `Bancos de Dados Vetoriais`
+`PostgreSQL` `Supabase` `SQL` `Bancos de Dados Vetoriais` `pgvector`
  
 **Automação & Workflows**
 `n8n` `Make` `Zapier` `Orquestração com LLM`

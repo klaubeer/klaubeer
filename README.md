@@ -33,7 +33,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 `n8n` `Make` `Zapier` `Orquestração com LLM`
  
 **LLMOps**
-`LLMOps` `Sentinela AI` `LLM-as-Judge` `Guardrails` `Drift Detection` `Regression Testing``Monitoramento de tokens e custo` `Rastreamento de latência`
+`LLMOps` `Sentinela AI` `LLM-as-Judge` `Guardrails` `Drift Detection` `Regression Testing` `Monitoramento de tokens e custo` `Rastreamento de latência`
 
  
 ---

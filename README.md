@@ -39,7 +39,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
  
-### 🤖 [Vertice-IA](https://github.com/klaubeer/Vertice-IA)
+### 🤖 [E-Commerce IA Operator - Vertice](https://github.com/klaubeer/Vertice-IA)
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente**
 Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
  

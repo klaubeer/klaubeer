@@ -39,19 +39,19 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
 
-### 🛡️ [Sentinela AI — Plataforma open-source de LLMOps](https://github.com/klaubeer/sentinela-ai)
+### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai)
 **Monitora, avalia e protege LLMs em produção — do trace à resposta**
-SDK Python com decorator @observe(), avaliação automática com LLM-as-Judge (faithfulness, relevância, toxicidade, PII), guardrails síncronos e assíncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo com comparações A/B. Integração em menos de 3 linhas sem alterar o comportamento da aplicação. Já monitora projetos reais como Vértice AI, Postador e Data Navigator.
+SDK Python com decorator @observe(), avaliação automática com LLM-as-Judge (faithfulness, relevância, toxicidade, PII), guardrails síncronos e assíncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo com comparações A/B. Integração em menos de 3 linhas sem alterar o comportamento da aplicação. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
  
-### 🤖 [E-Commerce IA Operator - Vertice](https://github.com/klaubeer/Vertice-IA)
+### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA)
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente**
 Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
 
-### 🗂️ [AI Metadata Catalog — Data Navigator](https://github.com/klaubeer/ai-metadata-catalog)
+### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog)
 **Catálogo inteligente de dados — explore datasets sem depender do time técnico**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia.
  
-### 📱 [AI Content Agent - O Postador](https://github.com/klaubeer/postador-ai-agent)
+### 📱 [O Postador](https://github.com/klaubeer/postador-ai-agent)
 **Produção automatizada de conteúdo para redes sociais**
 Plataforma com IA que gera, adapta e agenda conteúdo para redes sociais — reduzindo o tempo de produção com consistência de voz da marca.
  
@@ -67,7 +67,7 @@ Ferramenta LLM embarcada no Slack que ajuda vendedores a avaliar negócios e rec
 **Agente conversacional com acesso a base de conhecimento e execução de ações automatizadas**
 Agente autônomo que integra com sistemas internos, consulta bases de conhecimento e executa ações — projetado para automação corporativa real.
 
-### 🏛️ [Municipal AI Assistant — Democrata](https://github.com/klaubeer/municipal-ai-assistant)
+### 🏛️ [Democrata](https://github.com/klaubeer/municipal-ai-assistant)
 **IA para acesso cidadão a dados públicos governamentais**
 Permite que cidadãos consultem informações governamentais em linguagem natural — sem precisar navegar por portais institucionais complexos. Aproxima dados públicos do cidadão comum.
  

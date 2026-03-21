@@ -5,12 +5,6 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 
 ---
 
-## 🚀 Sobre mim
-
-Construo sistemas de IA que vão além do protótipo — de agentes autônomos e pipelines RAG em produção a copilots inteligentes e automação de workflows. Meu foco são sistemas observáveis, avaliáveis e construídos para resolver problemas reais.
- 
----
- 
 ## 🚀 O que eu construo
  
 - **Agentes de IA Autônomos** — sistemas multi-agente orquestrados com memória, ferramentas e lógica de decisão

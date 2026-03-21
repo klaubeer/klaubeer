@@ -40,7 +40,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ## 📦 Projetos
 
 ### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai)
-**Monitora, avalia e protege LLMs em produção — do trace à resposta**
+**Monitora, avalia e observa LLMs em produção — do trace à resposta**
 SDK Python com decorator @observe(), avaliação automática com LLM-as-Judge (faithfulness, relevância, toxicidade, PII), guardrails síncronos e assíncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo com comparações A/B. Integração em menos de 3 linhas sem alterar o comportamento da aplicação. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
  
 ### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA)

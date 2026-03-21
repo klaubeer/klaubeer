@@ -21,7 +21,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 `OpenAI` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `LlamaIndex` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` 
  
 **Recuperação & Busca**
-`Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone`
+`Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone` `Qdrant`
  
 **Backend & Infraestrutura**
 `Python` `FastAPI` `Docker` `REST APIs` `CI/CD` `Django` 

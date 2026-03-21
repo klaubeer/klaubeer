@@ -24,7 +24,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 `Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone`
  
 **Backend & Infraestrutura**
-`Python` `FastAPI` `Docker` `REST APIs` `CI/CD`
+`Python` `FastAPI` `Docker` `REST APIs` `CI/CD` `Django` 
  
 **Dados & Storage**
 `PostgreSQL` `Supabase` `SQL` `Bancos de Dados Vetoriais`

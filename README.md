@@ -18,7 +18,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ## 🧠 Stack
  
 **IA / LLMs**
-`OpenAI GPT` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `LlamaIndex` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` 
+`OpenAI GPT` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` 
  
 **Recuperação & Busca**
 `Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone` `Qdrant`

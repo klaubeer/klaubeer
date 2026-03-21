@@ -18,7 +18,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ## 🧠 Stack
  
 **IA / LLMs**
-`OpenAI` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `LlamaIndex` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` `Fine-tuning`
+`OpenAI` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `LlamaIndex` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` 
  
 **Recuperação & Busca**
 `Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone`
@@ -42,10 +42,6 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ### 🤖 [Vertice-IA](https://github.com/klaubeer/Vertice-IA)
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente**
 Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
- 
-### 🧠 [Isreal — AI Data Copilot](https://github.com/klaubeer/Isreal-AI-Data-Copilot)
-**Linguagem natural → SQL, sem precisar conhecer o schema**
-Analista de dados autônomo que entende a estrutura do banco, resolve consultas ambíguas e retorna SQL preciso. Substitui dashboards por linguagem natural — sem dependência técnica.
  
 ### 🏛️ [Municipal AI Assistant — Democrata](https://github.com/klaubeer/municipal-ai-assistant)
 **IA para acesso cidadão a dados públicos governamentais**

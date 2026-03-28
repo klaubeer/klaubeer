@@ -40,6 +40,10 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
 
+### 🍪 [Cookie Finance Bot](https://github.com/klaubeer/cookie-cash)
+**Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
+Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra tudo automaticamente em uma planilha Google Sheets que vira o financeiro da empresa — sem apps novos, sem formulários, sem fricção. É possível ver registros individuais de receita/despesa e um resumo por período do caixa.
+
 ### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai)
 **Monitora, avalia e observa LLMs em produção — do trace à resposta.**
 SDK Python com decorator @observe(), avaliação automática (faithfulness, relevância, toxicidade, PII), guardrails síncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.

@@ -40,7 +40,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
 
-### 🍪 [Cookie Finance Bot](https://github.com/klaubeer/cookie-cash)
+### 🍪 [Cookie Cash](https://github.com/klaubeer/cookie-cash)
 **Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
 Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra em tempo real em uma planilha Google Sheets. É possível ver as entradas/saídas individuais e um resumo por período do caixa.
 

@@ -54,7 +54,7 @@ Acesso: https://sentinela.klauberfischer.online/
 **Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
 Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra em tempo real em uma planilha Google Sheets. É possível ver as entradas/saídas individuais e um resumo por período do caixa.
 
-### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) - 
+### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) 
 **Catálogo inteligente de dados — explore datasets sem depender do time técnico.**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia. Acesso: https://navigator.klauberfischer.online/
 

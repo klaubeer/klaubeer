@@ -55,15 +55,15 @@ Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e d
 ### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog)
 **Catálogo inteligente de dados — explore datasets sem depender do time técnico.**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia.
+
+### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency)
+**Sistema multi-agente que gera campanhas de marketing completas.**
+Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
  
 ### 📱 [O Postador](https://github.com/klaubeer/postador-ai-agent)
 **Produção automatizada de conteúdo para redes sociais.**
 Plataforma com IA que gera, adapta e agenda conteúdo para redes sociais — reduzindo o tempo de produção com consistência de voz da marca.
- 
-### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency)
-**Sistema multi-agente que gera campanhas de marketing completas.**
-Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
-  
+
 ### 💼 [Slack Sales Copilot](https://github.com/klaubeer/slack-sales-copilot)
 **IA para vendedores dentro do Slack — analisa oportunidades e sugere próximos passos.**
 Ferramenta LLM embarcada no Slack que ajuda vendedores a avaliar negócios e receber recomendações acionáveis sem sair do fluxo de trabalho.

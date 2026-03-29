@@ -42,13 +42,13 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 
 ### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA) 
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente.**
-Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma. 
+Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
 Acesso: https://vertice.klauberfischer.online/
 
 ### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai) 
 **Monitora, avalia e observa LLMs em produção — do trace à resposta.**
 SDK Python com decorator @observe(), avaliação automática (faithfulness, relevância, toxicidade, PII), guardrails síncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
-https://sentinela.klauberfischer.online/
+Acesso: https://sentinela.klauberfischer.online/
 
 ### 🍪 [Cookie Cash](https://github.com/klaubeer/cookie-cash)
 **Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**

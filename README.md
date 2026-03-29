@@ -40,25 +40,29 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
 
-### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA) - (https://vertice.klauberfischer.online/)
+### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA) 
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente.**
-Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
+Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma. 
+Acesso: https://vertice.klauberfischer.online/
 
-### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai) - (https://sentinela.klauberfischer.online/)
+### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai) 
 **Monitora, avalia e observa LLMs em produção — do trace à resposta.**
 SDK Python com decorator @observe(), avaliação automática (faithfulness, relevância, toxicidade, PII), guardrails síncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
+https://sentinela.klauberfischer.online/
 
 ### 🍪 [Cookie Cash](https://github.com/klaubeer/cookie-cash)
 **Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
 Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra em tempo real em uma planilha Google Sheets. É possível ver as entradas/saídas individuais e um resumo por período do caixa.
 
-### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) - (https://navigator.klauberfischer.online/)
+### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) - 
 **Catálogo inteligente de dados — explore datasets sem depender do time técnico.**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia.
+Acesso: https://navigator.klauberfischer.online/
 
-### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency) - (https://mkto.klauberfischer.online/)
+### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency) 
 **Sistema multi-agente que gera campanhas de marketing completas.**
 Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
+Acesso: https://mkto.klauberfischer.online/
  
 ### 📱 [O Postador](https://github.com/klaubeer/postador-ai-agent)
 **Produção automatizada de conteúdo para redes sociais.**

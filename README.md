@@ -40,11 +40,11 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
  
 ## 📦 Projetos
 
-### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA)
+### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA) - (https://vertice.klauberfischer.online/)
 **Atendimento autônomo inteligente com RAG avançado e orquestração multi-agente.**
 Sistema de suporte full-stack com coordenação multi-agente, recuperação híbrida e observabilidade pronta para produção. Construído para lidar com consultas reais de clientes de forma autônoma.
 
-### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai)
+### 🛡️ [Sentinela AI](https://github.com/klaubeer/sentinela-ai) - (https://sentinela.klauberfischer.online/)
 **Monitora, avalia e observa LLMs em produção — do trace à resposta.**
 SDK Python com decorator @observe(), avaliação automática (faithfulness, relevância, toxicidade, PII), guardrails síncronos, drift detection por janela de tempo, regression testing com datasets golden e dashboard interativo. Já monitora outros projetos como Vértice AI, Postador e Data Navigator.
 
@@ -52,11 +52,11 @@ SDK Python com decorator @observe(), avaliação automática (faithfulness, rele
 **Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
 Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra em tempo real em uma planilha Google Sheets. É possível ver as entradas/saídas individuais e um resumo por período do caixa.
 
-### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog)
+### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) - (https://navigator.klauberfischer.online/)
 **Catálogo inteligente de dados — explore datasets sem depender do time técnico.**
 Plataforma de metadados com IA onde analistas descobrem datasets, entendem schemas e consultam informações sem depender de engenharia.
 
-### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency)
+### 📣 [AI Marketing Agency — Markito's](https://github.com/klaubeer/ai-marketing-agency) - (https://mkto.klauberfischer.online/)
 **Sistema multi-agente que gera campanhas de marketing completas.**
 Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
  

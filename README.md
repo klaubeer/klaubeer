@@ -51,8 +51,8 @@ SDK Python com decorator @observe(), avaliação automática (faithfulness, rele
 Acesso: https://sentinela.klauberfischer.online/
 
 ### 🎲 [Trade Scan] (https://tradescan.klauberfischer.online/)
-**TradeScan é um backtester inteligente para day traders pessoa física, focado em mini-índice (WIN), mini-dólar (WDO) e BITFUT da B3.**
-O sistema permite carregar dados históricos de candles, definir setups operacionais, executar simulações de backtesting e obter estatísticas detalhadas — eliminando o viés emocional e o processo manual de validação em planilhas. A camada de IA auxilia na formulação e refinamento de hipóteses de setup, interpretando resultados estatísticos e sugerindo variações para teste.
+**TradeScan é um backtester inteligente para day traders pessoa física.**
+O sistema permite carregar dados históricos de candles, definir setups operacionais, executar simulações de backtesting e obter estatísticas detalhadas — eliminando o viés emocional e o processo manual de validação em planilhas.
 Acesso: https://tradescan.klauberfischer.online/
 
 ### 🗂️ [Data Navigator](https://github.com/klaubeer/ai-metadata-catalog) 

@@ -1,7 +1,3 @@
-Aqui está a versão em inglês, direta e pronta pra usar:
-
----
-
 <h1 align="center">Klauber Fischer</h1>
 <p align="center">
 AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation

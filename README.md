@@ -1,3 +1,5 @@
+[English version here](readmeEN.md)
+
 <h1 align="center">Klauber Fischer</h1>
 <p align="center">
 AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation

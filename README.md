@@ -43,7 +43,7 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ## 📦 Projetos (clique no nome para acessar o repositório)
 
 ### ✈️ [Trippin'](https://github.com/klaubeer/trippin)
-Informe destino e datas. Quatro agentes de IA trabalham em paralelo e entregam três roteiros completos — econômico, conforto e premium — com voos, hospedagem, atividades diárias, mapa interativo e PDF para download.
+Planejamento de viagens com inteligência artificial. Informe o seu destino e data de início e fim da viagem. Quatro agentes de IA trabalham em paralelo e entregam três roteiros completos — econômico, conforto e premium — com voos, hospedagem, atividades diárias, mapa interativo e PDF para download.
 Acesso: https://trippin.klauberfischer.online/pt-BR
 
 ### 🤖 [Vertice](https://github.com/klaubeer/Vertice-IA) 

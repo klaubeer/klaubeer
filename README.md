@@ -18,25 +18,30 @@ AI Engineer | LLM Applications | Multi-Agent Systems | RAG | Automation
 ---
  
 ## 🧠 Stack
- 
+
 **IA / LLMs**
-`OpenAI GPT` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `RAGAS` `Prompt Engineering` `Avaliação de LLMs` 
- 
+`OpenAI GPT` `Anthropic Claude` `Google Gemini` `LangChain` `LangGraph` `CrewAI` `MCP (Model Context Protocol)` `Function Calling / Tool Use` `Embeddings` `Prompt Engineering` `RAGAS` `LLM-as-Judge` `Avaliação de LLMs`
+
 **Recuperação & Busca**
-`Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone` `Qdrant`
- 
+`Hybrid Search (BM25 + Vetorial)` `Busca Semântica` `Reranking` `FAISS` `Chroma` `Pinecone` `Qdrant` `pgvector`
+
 **Backend & Infraestrutura**
-`Python` `FastAPI` `Docker` `REST APIs` `CI/CD` `Django` 
- 
+`Python` `FastAPI` `Django` `Docker` `REST APIs` `WebSockets` `Celery` `Redis` `CI/CD`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `Streamlit`
+
 **Dados & Storage**
-`PostgreSQL` `Supabase` `SQL` `Bancos de Dados Vetoriais` `pgvector`
- 
+`PostgreSQL` `Supabase` `SQL` `Bancos de Dados Vetoriais`
+
+**Cloud & Deploy**
+`Azure` `AWS` `Vercel`
+
 **Automação & Workflows**
 `n8n` `Make` `Zapier` `Orquestração com LLM`
- 
-**LLMOps**
-`LLMOps` `LLM-as-Judge` `Guardrails` `Drift Detection` `Regression Testing` `Monitoramento de tokens` `Rastreamento de latência`
 
+**LLMOps & Observabilidade**
+`LangSmith` `Langfuse` `Guardrails` `Drift Detection` `Regression Testing` `Monitoramento de tokens` `Rastreamento de latência`
  
 ---
  

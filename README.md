@@ -80,10 +80,6 @@ Acesso: https://postador.klauberfischer.online/
 Orquestração de agentes autônomos simulando uma agência de marketing — do briefing à campanha completa, incluindo copy, segmentação e estratégia de canal.
 Acesso: https://mkto.klauberfischer.online/
  
-### 🍪 [Cookie Cash](https://github.com/klaubeer/cookie-cash)
-**Controle financeiro de negócio artesanal operado inteiramente via WhatsApp.**
-Bot que recebe mensagens de texto, áudio e fotos de recibos, extrai valores e descrições com GPT-4o mini + Whisper e registra em tempo real em uma planilha Google Sheets. É possível ver as entradas/saídas individuais e um resumo por período do caixa.
-
 ### 💼 [Slack Sales Copilot](https://github.com/klaubeer/slack-sales-copilot)
 **IA para vendedores dentro do Slack — analisa oportunidades e sugere próximos passos.**
 Ferramenta LLM embarcada no Slack que ajuda vendedores a avaliar negócios e receber recomendações acionáveis sem sair do fluxo de trabalho.
